@@ -1,5 +1,5 @@
 # Vue Sorting Algorithms Visualizer. Follow the steps below to compile and run locally or view the live version.
-# Inspired by multiple YouTube videos showing visualization of sorting algorithms.
+Inspired by multiple YouTube videos showing visualization of sorting algorithms.
 
 ## Project setup
 ```
